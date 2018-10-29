@@ -558,6 +558,8 @@ body {
     position: relative;
     top: 0vw;
     left: 0vw;
+
+    display: none;
 }
 
 #Startknap {
@@ -614,6 +616,8 @@ body {
     position: relative;
     top: 0vw;
     left: 0vw;
+
+    display: none;
 }
 
 #Settings_Music {
@@ -670,6 +674,8 @@ body {
     position: relative;
     top: 0vw;
     left: 0vw;
+
+    display: none;
 }
 
 #Play_Again {
@@ -698,6 +704,8 @@ body {
     position: relative;
     top: 0vw;
     left: 0vw;
+
+    display: none;
 }
 
 #Play_More {
