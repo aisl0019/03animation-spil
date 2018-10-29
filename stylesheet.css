@@ -685,3 +685,31 @@ body {
     left: 35.6vw;
     z-index: 1;
 }
+
+/********** LEVEL COMPLETE **********/
+#levelcomplete {
+    background-image: url(grafik/Level_Complete.svg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+
+    width: 100vw;
+    height: 56.25vw;
+
+    position: relative;
+    top: 0vw;
+    left: 0vw;
+}
+
+#Play_More {
+    background-image: url(grafik/Lort_Play_Again.svg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+
+    width: 30vw;
+    height: 30vw;
+
+    position: absolute;
+    top: 28vw;
+    left: 35.6vw;
+    z-index: 1;
+}
