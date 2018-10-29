@@ -657,3 +657,31 @@ body {
     left: 56.1vw;
     z-index: 1;
 }
+
+/********** GAME OVER **********/
+#gameover {
+    background-image: url(grafik/Game_Over.svg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+
+    width: 100vw;
+    height: 56.25vw;
+
+    position: relative;
+    top: 0vw;
+    left: 0vw;
+}
+
+#Play_Again {
+    background-image: url(grafik/Lort_Play_Again.svg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+
+    width: 30vw;
+    height: 30vw;
+
+    position: absolute;
+    top: 22vw;
+    left: 35.6vw;
+    z-index: 1;
+}
