@@ -1,3 +1,7 @@
+body {
+    margin: 0;
+}
+
 /********** SPIL **********/
 
 #game_background {
@@ -596,4 +600,60 @@
     top: 51.1vw;
     left: 93.4vw;
     z-index: 2;
+}
+
+/********** SETTINGS **********/
+#settings {
+    background-image: url(grafik/Settings.svg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+
+    width: 100vw;
+    height: 56.25vw;
+
+    position: relative;
+    top: 0vw;
+    left: 0vw;
+}
+
+#Settings_Music {
+    background-image: url(grafik/Lort_Mute_Music.svg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+
+    width: 16vw;
+    height: 16vw;
+
+    position: absolute;
+    top: 27vw;
+    left: 27.2vw;
+    z-index: 1;
+}
+
+#Settings_Sound {
+    background-image: url(grafik/Lort_Mute_Sound.svg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+
+    width: 16vw;
+    height: 16vw;
+
+    position: absolute;
+    top: 27vw;
+    left: 41.6vw;
+    z-index: 1;
+}
+
+#Settings_Exit {
+    background-image: url(grafik/Lort_Exit.svg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+
+    width: 16vw;
+    height: 16vw;
+
+    position: absolute;
+    top: 26.4vw;
+    left: 56.1vw;
+    z-index: 1;
 }
