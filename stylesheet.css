@@ -194,599 +194,600 @@ body {
     to {
         transform: translateX(100vw);
     }
-
-    #Corgi_1 {
-        background-image: url(grafik/Corgi.svg);
-        background-repeat: no-repeat;
-        background-size: 70%;
-
-        width: 10vw;
-        height: 10vw;
-
-        position: absolute;
-        top: 45vw;
-        left: 1vw;
-        z-index: 2;
-    }
-
-    #Lort_Interaktiv_Corgi_1 {
-        background-image: url(grafik/Lort_Interaktiv.svg);
-        background-repeat: no-repeat;
-        background-size: 70%;
-
-        width: 10vw;
-        height: 10vw;
-
-        position: absolute;
-        top: 45vw;
-        left: 1vw;
-        z-index: 3;
-    }
-
-    #Corgi_2 {
-        background-image: url(grafik/Corgi.svg);
-        background-repeat: no-repeat;
-        background-size: 70%;
-
-        width: 10vw;
-        height: 10vw;
-
-        position: absolute;
-        top: 47vw;
-        left: 80vw;
-        z-index: 2;
-    }
-
-    #Lort_Interaktiv_Corgi_2 {
-        background-image: url(grafik/Lort_Interaktiv.svg);
-        background-repeat: no-repeat;
-        background-size: 70%;
-
-        width: 10vw;
-        height: 10vw;
-
-        position: absolute;
-        top: 47vw;
-        left: 80vw;
-        z-index: 3;
-    }
-
-    #Corgi_3 {
-        background-image: url(grafik/Corgi.svg);
-        background-repeat: no-repeat;
-        background-size: 70%;
-
-        width: 10vw;
-        height: 10vw;
-
-        position: absolute;
-        top: 45vw;
-        left: 63vw;
-        z-index: 2;
-    }
-
-    #Lort_Interaktiv_Corgi_3 {
-        background-image: url(grafik/Lort_Interaktiv.svg);
-        background-repeat: no-repeat;
-        background-size: 70%;
-
-        width: 10vw;
-        height: 10vw;
-
-        position: absolute;
-        top: 45vw;
-        left: 63vw;
-        z-index: 3;
-    }
-
-    #Lab_1 {
-        background-image: url(grafik/Lab.svg);
-        background-repeat: no-repeat;
-        background-size: 70%;
-
-        width: 10vw;
-        height: 12vw;
-
-        position: absolute;
-        top: 42vw;
-        left: 89vw;
-        z-index: 2;
-    }
-
-    #Lort_Interaktiv_Lab_1 {
-        background-image: url(grafik/Lort_Interaktiv.svg);
-        background-repeat: no-repeat;
-        background-size: 70%;
-
-        width: 10vw;
-        height: 10vw;
-
-        position: absolute;
-        top: 44vw;
-        left: 89vw;
-        z-index: 3;
-    }
-
-    #Lab_2 {
-        background-image: url(grafik/Lab.svg);
-        background-repeat: no-repeat;
-        background-size: 70%;
-
-        width: 10vw;
-        height: 12vw;
-
-        position: absolute;
-        top: 43vw;
-        left: 39vw;
-        z-index: 2;
-    }
-
-    #Lort_Interaktiv_Lab_2 {
-        background-image: url(grafik/Lort_Interaktiv.svg);
-        background-repeat: no-repeat;
-        background-size: 70%;
-
-        width: 10vw;
-        height: 10vw;
-
-        position: absolute;
-        top: 45vw;
-        left: 39vw;
-        z-index: 3;
-    }
-
-    #Lab_3 {
-        background-image: url(grafik/Lab.svg);
-        background-repeat: no-repeat;
-        background-size: 70%;
-
-        width: 10vw;
-        height: 12vw;
-
-        position: absolute;
-        top: 45vw;
-        left: 19vw;
-        z-index: 2;
-    }
-
-    #Lort_Interaktiv_Lab_3 {
-        background-image: url(grafik/Lort_Interaktiv.svg);
-        background-repeat: no-repeat;
-        background-size: 70%;
-
-        width: 10vw;
-        height: 10vw;
-
-        position: absolute;
-        top: 47vw;
-        left: 19vw;
-        z-index: 3;
-    }
-
-    #Mops_1 {
-        background-image: url(grafik/Mops.svg);
-        background-repeat: no-repeat;
-        background-size: 55%;
-
-        width: 10vw;
-        height: 10vw;
-
-        position: absolute;
-        top: 45vw;
-        left: 10vw;
-        z-index: 2;
-    }
-
-    #Lort_Interaktiv_Mops_1 {
-        background-image: url(grafik/Lort_Interaktiv.svg);
-        background-repeat: no-repeat;
-        background-size: 55%;
-
-        width: 10vw;
-        height: 10vw;
-
-        position: absolute;
-        top: 45vw;
-        left: 10vw;
-        z-index: 3;
-    }
-
-    #Mops_2 {
-        background-image: url(grafik/Mops.svg);
-        background-repeat: no-repeat;
-        background-size: 55%;
-
-        width: 10vw;
-        height: 10vw;
-
-        position: absolute;
-        top: 50vw;
-        left: 30vw;
-        z-index: 4;
-    }
-
-    #Lort_Interaktiv_Mops_2 {
-        background-image: url(grafik/Lort_Interaktiv.svg);
-        background-repeat: no-repeat;
-        background-size: 55%;
-
-        width: 10vw;
-        height: 10vw;
-
-        position: absolute;
-        top: 50vw;
-        left: 30vw;
-        z-index: 5;
-    }
-
-    #Mops_3 {
-        background-image: url(grafik/Mops.svg);
-        background-repeat: no-repeat;
-        background-size: 55%;
-
-        width: 10vw;
-        height: 10vw;
-
-        position: absolute;
-        top: 48vw;
-        left: 50vw;
-        z-index: 2;
-    }
-
-    #Lort_Interaktiv_Mops_3 {
-        background-image: url(grafik/Lort_Interaktiv.svg);
-        background-repeat: no-repeat;
-        background-size: 55%;
-
-        width: 10vw;
-        height: 10vw;
-
-        position: absolute;
-        top: 48vw;
-        left: 50vw;
-        z-index: 3;
-    }
-
-    #Puddel_1 {
-        background-image: url(grafik/Puddel.svg);
-        background-repeat: no-repeat;
-        background-size: 55%;
-
-        width: 17vw;
-        height: 12vw;
-
-        position: absolute;
-        top: 44vw;
-        left: 69vw;
-        z-index: 2;
-    }
-
-    #Lort_Interaktiv_Puddel_1 {
-        background-image: url(grafik/Lort_Interaktiv.svg);
-        background-repeat: no-repeat;
-        background-size: 55%;
-
-        width: 20vw;
-        height: 10vw;
-
-        position: absolute;
-        top: 46vw;
-        left: 69vw;
-        z-index: 3;
-    }
-
-    #Puddel_2 {
-        background-image: url(grafik/Puddel.svg);
-        background-repeat: no-repeat;
-        background-size: 55%;
-
-        width: 17vw;
-        height: 12vw;
-
-        position: absolute;
-        top: 44vw;
-        left: 43vw;
-        z-index: 4;
-    }
-
-    #Lort_Interaktiv_Puddel_2 {
-        background-image: url(grafik/Lort_Interaktiv.svg);
-        background-repeat: no-repeat;
-        background-size: 55%;
-
-        width: 20vw;
-        height: 10vw;
-
-        position: absolute;
-        top: 46vw;
-        left: 43vw;
-        z-index: 5;
-    }
-
-    #Puddel_3 {
-        background-image: url(grafik/Puddel.svg);
-        background-repeat: no-repeat;
-        background-size: 55%;
-
-        width: 17vw;
-        height: 12vw;
-
-        position: absolute;
-        top: 44vw;
-        left: 12vw;
-        z-index: 4;
-    }
-
-    #Lort_Interaktiv_Puddel_3 {
-        background-image: url(grafik/Lort_Interaktiv.svg);
-        background-repeat: no-repeat;
-        background-size: 55%;
-
-        width: 20vw;
-        height: 10vw;
-
-        position: absolute;
-        top: 46vw;
-        left: 12vw;
-        z-index: 5;
-    }
-
-    #Shiba_Inu_1 {
-        background-image: url(grafik/Shiba_Inu.svg);
-        background-repeat: no-repeat;
-        background-size: 55%;
-
-        width: 17vw;
-        height: 12vw;
-
-        position: absolute;
-        top: 40vw;
-        left: 28vw;
-        z-index: 2;
-    }
-
-    #Lort_Interaktiv_Shiba_Inu_1 {
-        background-image: url(grafik/Lort_Interaktiv.svg);
-        background-repeat: no-repeat;
-        background-size: 55%;
-
-        width: 15vw;
-        height: 10vw;
-
-        position: absolute;
-        top: 43vw;
-        left: 28.50vw;
-        z-index: 3;
-    }
-
-    #Shiba_Inu_2 {
-        background-image: url(grafik/Shiba_Inu.svg);
-        background-repeat: no-repeat;
-        background-size: 55%;
-
-        width: 17vw;
-        height: 12vw;
-
-        position: absolute;
-        top: 45vw;
-        left: 55vw;
-        z-index: 4;
-    }
-
-    #Lort_Interaktiv_Shiba_Inu_2 {
-        background-image: url(grafik/Lort_Interaktiv.svg);
-        background-repeat: no-repeat;
-        background-size: 55%;
-
-        width: 15vw;
-        height: 10vw;
-
-        position: absolute;
-        top: 48vw;
-        left: 55.50vw;
-        z-index: 5;
-    }
-
-    #Shiba_Inu_3 {
-        background-image: url(grafik/Shiba_Inu.svg);
-        background-repeat: no-repeat;
-        background-size: 55%;
-
-        width: 17vw;
-        height: 12vw;
-
-        position: absolute;
-        top: 45vw;
-        left: 91vw;
-        z-index: 4;
-    }
-
-    #Lort_Interaktiv_Shiba_Inu_3 {
-        background-image: url(grafik/Lort_Interaktiv.svg);
-        background-repeat: no-repeat;
-        background-size: 55%;
-
-        width: 15vw;
-        height: 10vw;
-
-        position: absolute;
-        top: 48vw;
-        left: 91.50vw;
-        z-index: 5;
-    }
-
-    /********** TITELSKÆRM **********/
-    #start {
-        background-image: url(grafik/Titelsk%C3%A6rm.svg);
-        background-repeat: no-repeat;
-        background-size: 100%;
-
-        width: 100vw;
-        height: 56.25vw;
-
-        position: relative;
-        top: 0vw;
-        left: 0vw;
-
-        display: none;
-    }
-
-    #Startknap {
-        background-image: url(grafik/Lort_Start.svg);
-        background-repeat: no-repeat;
-        background-size: 100%;
-
-        width: 16vw;
-        height: 16vw;
-
-        position: absolute;
-        top: 15vw;
-        left: 37.50vw;
-        z-index: 1;
-    }
-
-    #Start_Settings {
-        background-image: url(grafik/Lort_Settings.svg);
-        background-repeat: no-repeat;
-        background-size: 100%;
-
-        width: 5.5vw;
-        height: 6vw;
-
-        position: absolute;
-        top: 51.1vw;
-        left: 88.2vw;
-        z-index: 2;
-    }
-
-    #Start_Exit {
-        background-image: url(grafik/Lort_Exit.svg);
-        background-repeat: no-repeat;
-        background-size: 100%;
-
-        width: 5.5vw;
-        height: 6vw;
-
-        position: absolute;
-        top: 51.1vw;
-        left: 93.4vw;
-        z-index: 2;
-    }
-
-    /********** SETTINGS **********/
-    #settings {
-        background-image: url(grafik/Settings.svg);
-        background-repeat: no-repeat;
-        background-size: 100%;
-
-        width: 100vw;
-        height: 56.25vw;
-
-        position: relative;
-        top: 0vw;
-        left: 0vw;
-
-        display: none;
-    }
-
-    #Settings_Music {
-        background-image: url(grafik/Lort_Mute_Music.svg);
-        background-repeat: no-repeat;
-        background-size: 100%;
-
-        width: 16vw;
-        height: 16vw;
-
-        position: absolute;
-        top: 27vw;
-        left: 27.2vw;
-        z-index: 1;
-    }
-
-    #Settings_Sound {
-        background-image: url(grafik/Lort_Mute_Sound.svg);
-        background-repeat: no-repeat;
-        background-size: 100%;
-
-        width: 16vw;
-        height: 16vw;
-
-        position: absolute;
-        top: 27vw;
-        left: 41.6vw;
-        z-index: 1;
-    }
-
-    #Settings_Exit {
-        background-image: url(grafik/Lort_Exit.svg);
-        background-repeat: no-repeat;
-        background-size: 100%;
-
-        width: 16vw;
-        height: 16vw;
-
-        position: absolute;
-        top: 26.4vw;
-        left: 56.1vw;
-        z-index: 1;
-    }
-
-    /********** GAME OVER **********/
-    #gameover {
-        background-image: url(grafik/Game_Over.svg);
-        background-repeat: no-repeat;
-        background-size: 100%;
-
-        width: 100vw;
-        height: 56.25vw;
-
-        position: relative;
-        top: 0vw;
-        left: 0vw;
-
-        display: none;
-    }
-
-    #Play_Again {
-        background-image: url(grafik/Lort_Play_Again.svg);
-        background-repeat: no-repeat;
-        background-size: 100%;
-
-        width: 30vw;
-        height: 30vw;
-
-        position: absolute;
-        top: 22vw;
-        left: 35.6vw;
-        z-index: 1;
-    }
-
-    /********** LEVEL COMPLETE **********/
-    #levelcomplete {
-        background-image: url(grafik/Level_Complete.svg);
-        background-repeat: no-repeat;
-        background-size: 100%;
-
-        width: 100vw;
-        height: 56.25vw;
-
-        position: relative;
-        top: 0vw;
-        left: 0vw;
-
-        display: none;
-    }
-
-    #Play_More {
-        background-image: url(grafik/Lort_Play_Again.svg);
-        background-repeat: no-repeat;
-        background-size: 100%;
-
-        width: 30vw;
-        height: 30vw;
-
-        position: absolute;
-        top: 28vw;
-        left: 35.6vw;
-        z-index: 1;
-    }
+}
+
+#Corgi_1 {
+    background-image: url(grafik/Corgi.svg);
+    background-repeat: no-repeat;
+    background-size: 70%;
+
+    width: 10vw;
+    height: 10vw;
+
+    position: absolute;
+    top: 45vw;
+    left: 1vw;
+    z-index: 2;
+}
+
+#Lort_Interaktiv_Corgi_1 {
+    background-image: url(grafik/Lort_Interaktiv.svg);
+    background-repeat: no-repeat;
+    background-size: 70%;
+
+    width: 10vw;
+    height: 10vw;
+
+    position: absolute;
+    top: 45vw;
+    left: 1vw;
+    z-index: 3;
+}
+
+#Corgi_2 {
+    background-image: url(grafik/Corgi.svg);
+    background-repeat: no-repeat;
+    background-size: 70%;
+
+    width: 10vw;
+    height: 10vw;
+
+    position: absolute;
+    top: 47vw;
+    left: 80vw;
+    z-index: 2;
+}
+
+#Lort_Interaktiv_Corgi_2 {
+    background-image: url(grafik/Lort_Interaktiv.svg);
+    background-repeat: no-repeat;
+    background-size: 70%;
+
+    width: 10vw;
+    height: 10vw;
+
+    position: absolute;
+    top: 47vw;
+    left: 80vw;
+    z-index: 3;
+}
+
+#Corgi_3 {
+    background-image: url(grafik/Corgi.svg);
+    background-repeat: no-repeat;
+    background-size: 70%;
+
+    width: 10vw;
+    height: 10vw;
+
+    position: absolute;
+    top: 45vw;
+    left: 63vw;
+    z-index: 2;
+}
+
+#Lort_Interaktiv_Corgi_3 {
+    background-image: url(grafik/Lort_Interaktiv.svg);
+    background-repeat: no-repeat;
+    background-size: 70%;
+
+    width: 10vw;
+    height: 10vw;
+
+    position: absolute;
+    top: 45vw;
+    left: 63vw;
+    z-index: 3;
+}
+
+#Lab_1 {
+    background-image: url(grafik/Lab.svg);
+    background-repeat: no-repeat;
+    background-size: 70%;
+
+    width: 10vw;
+    height: 12vw;
+
+    position: absolute;
+    top: 42vw;
+    left: 89vw;
+    z-index: 2;
+}
+
+#Lort_Interaktiv_Lab_1 {
+    background-image: url(grafik/Lort_Interaktiv.svg);
+    background-repeat: no-repeat;
+    background-size: 70%;
+
+    width: 10vw;
+    height: 10vw;
+
+    position: absolute;
+    top: 44vw;
+    left: 89vw;
+    z-index: 3;
+}
+
+#Lab_2 {
+    background-image: url(grafik/Lab.svg);
+    background-repeat: no-repeat;
+    background-size: 70%;
+
+    width: 10vw;
+    height: 12vw;
+
+    position: absolute;
+    top: 43vw;
+    left: 39vw;
+    z-index: 2;
+}
+
+#Lort_Interaktiv_Lab_2 {
+    background-image: url(grafik/Lort_Interaktiv.svg);
+    background-repeat: no-repeat;
+    background-size: 70%;
+
+    width: 10vw;
+    height: 10vw;
+
+    position: absolute;
+    top: 45vw;
+    left: 39vw;
+    z-index: 3;
+}
+
+#Lab_3 {
+    background-image: url(grafik/Lab.svg);
+    background-repeat: no-repeat;
+    background-size: 70%;
+
+    width: 10vw;
+    height: 12vw;
+
+    position: absolute;
+    top: 45vw;
+    left: 19vw;
+    z-index: 2;
+}
+
+#Lort_Interaktiv_Lab_3 {
+    background-image: url(grafik/Lort_Interaktiv.svg);
+    background-repeat: no-repeat;
+    background-size: 70%;
+
+    width: 10vw;
+    height: 10vw;
+
+    position: absolute;
+    top: 47vw;
+    left: 19vw;
+    z-index: 3;
+}
+
+#Mops_1 {
+    background-image: url(grafik/Mops.svg);
+    background-repeat: no-repeat;
+    background-size: 55%;
+
+    width: 10vw;
+    height: 10vw;
+
+    position: absolute;
+    top: 45vw;
+    left: 10vw;
+    z-index: 2;
+}
+
+#Lort_Interaktiv_Mops_1 {
+    background-image: url(grafik/Lort_Interaktiv.svg);
+    background-repeat: no-repeat;
+    background-size: 55%;
+
+    width: 10vw;
+    height: 10vw;
+
+    position: absolute;
+    top: 45vw;
+    left: 10vw;
+    z-index: 3;
+}
+
+#Mops_2 {
+    background-image: url(grafik/Mops.svg);
+    background-repeat: no-repeat;
+    background-size: 55%;
+
+    width: 10vw;
+    height: 10vw;
+
+    position: absolute;
+    top: 50vw;
+    left: 30vw;
+    z-index: 4;
+}
+
+#Lort_Interaktiv_Mops_2 {
+    background-image: url(grafik/Lort_Interaktiv.svg);
+    background-repeat: no-repeat;
+    background-size: 55%;
+
+    width: 10vw;
+    height: 10vw;
+
+    position: absolute;
+    top: 50vw;
+    left: 30vw;
+    z-index: 5;
+}
+
+#Mops_3 {
+    background-image: url(grafik/Mops.svg);
+    background-repeat: no-repeat;
+    background-size: 55%;
+
+    width: 10vw;
+    height: 10vw;
+
+    position: absolute;
+    top: 48vw;
+    left: 50vw;
+    z-index: 2;
+}
+
+#Lort_Interaktiv_Mops_3 {
+    background-image: url(grafik/Lort_Interaktiv.svg);
+    background-repeat: no-repeat;
+    background-size: 55%;
+
+    width: 10vw;
+    height: 10vw;
+
+    position: absolute;
+    top: 48vw;
+    left: 50vw;
+    z-index: 3;
+}
+
+#Puddel_1 {
+    background-image: url(grafik/Puddel.svg);
+    background-repeat: no-repeat;
+    background-size: 55%;
+
+    width: 17vw;
+    height: 12vw;
+
+    position: absolute;
+    top: 44vw;
+    left: 69vw;
+    z-index: 2;
+}
+
+#Lort_Interaktiv_Puddel_1 {
+    background-image: url(grafik/Lort_Interaktiv.svg);
+    background-repeat: no-repeat;
+    background-size: 55%;
+
+    width: 20vw;
+    height: 10vw;
+
+    position: absolute;
+    top: 46vw;
+    left: 69vw;
+    z-index: 3;
+}
+
+#Puddel_2 {
+    background-image: url(grafik/Puddel.svg);
+    background-repeat: no-repeat;
+    background-size: 55%;
+
+    width: 17vw;
+    height: 12vw;
+
+    position: absolute;
+    top: 44vw;
+    left: 43vw;
+    z-index: 4;
+}
+
+#Lort_Interaktiv_Puddel_2 {
+    background-image: url(grafik/Lort_Interaktiv.svg);
+    background-repeat: no-repeat;
+    background-size: 55%;
+
+    width: 20vw;
+    height: 10vw;
+
+    position: absolute;
+    top: 46vw;
+    left: 43vw;
+    z-index: 5;
+}
+
+#Puddel_3 {
+    background-image: url(grafik/Puddel.svg);
+    background-repeat: no-repeat;
+    background-size: 55%;
+
+    width: 17vw;
+    height: 12vw;
+
+    position: absolute;
+    top: 44vw;
+    left: 12vw;
+    z-index: 4;
+}
+
+#Lort_Interaktiv_Puddel_3 {
+    background-image: url(grafik/Lort_Interaktiv.svg);
+    background-repeat: no-repeat;
+    background-size: 55%;
+
+    width: 20vw;
+    height: 10vw;
+
+    position: absolute;
+    top: 46vw;
+    left: 12vw;
+    z-index: 5;
+}
+
+#Shiba_Inu_1 {
+    background-image: url(grafik/Shiba_Inu.svg);
+    background-repeat: no-repeat;
+    background-size: 55%;
+
+    width: 17vw;
+    height: 12vw;
+
+    position: absolute;
+    top: 40vw;
+    left: 28vw;
+    z-index: 2;
+}
+
+#Lort_Interaktiv_Shiba_Inu_1 {
+    background-image: url(grafik/Lort_Interaktiv.svg);
+    background-repeat: no-repeat;
+    background-size: 55%;
+
+    width: 15vw;
+    height: 10vw;
+
+    position: absolute;
+    top: 43vw;
+    left: 28.50vw;
+    z-index: 3;
+}
+
+#Shiba_Inu_2 {
+    background-image: url(grafik/Shiba_Inu.svg);
+    background-repeat: no-repeat;
+    background-size: 55%;
+
+    width: 17vw;
+    height: 12vw;
+
+    position: absolute;
+    top: 45vw;
+    left: 55vw;
+    z-index: 4;
+}
+
+#Lort_Interaktiv_Shiba_Inu_2 {
+    background-image: url(grafik/Lort_Interaktiv.svg);
+    background-repeat: no-repeat;
+    background-size: 55%;
+
+    width: 15vw;
+    height: 10vw;
+
+    position: absolute;
+    top: 48vw;
+    left: 55.50vw;
+    z-index: 5;
+}
+
+#Shiba_Inu_3 {
+    background-image: url(grafik/Shiba_Inu.svg);
+    background-repeat: no-repeat;
+    background-size: 55%;
+
+    width: 17vw;
+    height: 12vw;
+
+    position: absolute;
+    top: 45vw;
+    left: 91vw;
+    z-index: 4;
+}
+
+#Lort_Interaktiv_Shiba_Inu_3 {
+    background-image: url(grafik/Lort_Interaktiv.svg);
+    background-repeat: no-repeat;
+    background-size: 55%;
+
+    width: 15vw;
+    height: 10vw;
+
+    position: absolute;
+    top: 48vw;
+    left: 91.50vw;
+    z-index: 5;
+}
+
+/********** TITELSKÆRM **********/
+#start {
+    background-image: url(grafik/Titelsk%C3%A6rm.svg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+
+    width: 100vw;
+    height: 56.25vw;
+
+    position: relative;
+    top: 0vw;
+    left: 0vw;
+
+    display: none;
+}
+
+#Startknap {
+    background-image: url(grafik/Lort_Start.svg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+
+    width: 16vw;
+    height: 16vw;
+
+    position: absolute;
+    top: 15vw;
+    left: 37.50vw;
+    z-index: 1;
+}
+
+#Start_Settings {
+    background-image: url(grafik/Lort_Settings.svg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+
+    width: 5.5vw;
+    height: 6vw;
+
+    position: absolute;
+    top: 51.1vw;
+    left: 88.2vw;
+    z-index: 2;
+}
+
+#Start_Exit {
+    background-image: url(grafik/Lort_Exit.svg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+
+    width: 5.5vw;
+    height: 6vw;
+
+    position: absolute;
+    top: 51.1vw;
+    left: 93.4vw;
+    z-index: 2;
+}
+
+/********** SETTINGS **********/
+#settings {
+    background-image: url(grafik/Settings.svg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+
+    width: 100vw;
+    height: 56.25vw;
+
+    position: relative;
+    top: 0vw;
+    left: 0vw;
+
+    display: none;
+}
+
+#Settings_Music {
+    background-image: url(grafik/Lort_Mute_Music.svg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+
+    width: 16vw;
+    height: 16vw;
+
+    position: absolute;
+    top: 27vw;
+    left: 27.2vw;
+    z-index: 1;
+}
+
+#Settings_Sound {
+    background-image: url(grafik/Lort_Mute_Sound.svg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+
+    width: 16vw;
+    height: 16vw;
+
+    position: absolute;
+    top: 27vw;
+    left: 41.6vw;
+    z-index: 1;
+}
+
+#Settings_Exit {
+    background-image: url(grafik/Lort_Exit.svg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+
+    width: 16vw;
+    height: 16vw;
+
+    position: absolute;
+    top: 26.4vw;
+    left: 56.1vw;
+    z-index: 1;
+}
+
+/********** GAME OVER **********/
+#gameover {
+    background-image: url(grafik/Game_Over.svg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+
+    width: 100vw;
+    height: 56.25vw;
+
+    position: relative;
+    top: 0vw;
+    left: 0vw;
+
+    display: none;
+}
+
+#Play_Again {
+    background-image: url(grafik/Lort_Play_Again.svg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+
+    width: 30vw;
+    height: 30vw;
+
+    position: absolute;
+    top: 22vw;
+    left: 35.6vw;
+    z-index: 1;
+}
+
+/********** LEVEL COMPLETE **********/
+#levelcomplete {
+    background-image: url(grafik/Level_Complete.svg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+
+    width: 100vw;
+    height: 56.25vw;
+
+    position: relative;
+    top: 0vw;
+    left: 0vw;
+
+    display: none;
+}
+
+#Play_More {
+    background-image: url(grafik/Lort_Play_Again.svg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+
+    width: 30vw;
+    height: 30vw;
+
+    position: absolute;
+    top: 28vw;
+    left: 35.6vw;
+    z-index: 1;
+}
