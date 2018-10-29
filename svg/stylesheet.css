@@ -1,0 +1,192 @@
+img {
+    max-width: 100%;
+}
+
+body {
+    margin: 0;
+}
+
+/******** START SKÆRM ********/
+#start {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    z-index: -1;
+    display: none;
+}
+
+#Lort_Start {
+    position: absolute;
+    width: 17vw;
+    top: 16vw;
+    left: 40vw;
+    z-index: 1;
+    display: none;
+}
+
+/******** BAGGRUND ********/
+#game_background {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    z-index: -2;
+}
+
+/******** SETTINGS ********/
+#settings {
+    position: absolute;
+    top: 2vw;
+    left: 10vw;
+    width: 85vw;
+    z-index: 1;
+    display: none;
+}
+
+#Music {
+    position: absolute;
+    width: 30vw;
+    top: 18vw;
+    left: 50vw;
+    z-index: 2;
+    display: none;
+
+}
+
+#Sound {
+    position: absolute;
+    width: 16vw;
+    top: 27vw;
+    left: 65vw;
+    z-index: 2;
+    display: none;
+
+}
+
+#Exit {
+    position: absolute;
+    width: 13vw;
+    top: 34vw;
+    left: 47vw;
+    z-index: 2;
+    display: none;
+}
+
+/******** SPILSKÆRM ********/
+#Corgi {
+    position: absolute;
+    width: 8vw;
+    top: 11vw;
+    left: 56.8vw;
+}
+
+#Lab {
+    position: absolute;
+    width: 7vw;
+    top: 29vw;
+    left: 80.5vw;
+}
+
+#Mops {
+    position: absolute;
+    width: 3vw;
+    top: 19vw;
+    left: 65.8vw;
+}
+
+#Puddel {
+    position: absolute;
+    width: 5vw;
+    top: 19vw;
+    left: 74.4vw;
+}
+
+#Shiba_Inu {
+    position: absolute;
+    width: 6.5vw;
+    top: 31.3vw;
+    left: 66.7vw;
+}
+
+#Lort_Interaktiv {
+    position: absolute;
+    width: 7.5vw;
+    top: 26vw;
+    left: 56.6vw;
+}
+
+#Sky {
+    position: absolute;
+    width: 8vw;
+    top: 12vw;
+    left: 79.9vw;
+}
+
+#Sky {
+    position: absolute;
+    width: 5vw;
+    top: 12vw;
+    left: 70.3vw;
+}
+
+#Point_Square {
+    position: absolute;
+    width: 9vw;
+    top: 43.5vw;
+    left: 35vw;
+}
+
+#Life_Square {
+    position: absolute;
+    width: 10vw;
+    top: 43.5vw;
+    left: 81vw;
+}
+
+#Time_Square {
+    position: absolute;
+    width: 36vw;
+    top: 47.5vw;
+    left: 45vw;
+}
+
+/******** GAME OVER ********/
+#gameover {
+    position: absolute;
+    width: 62vw;
+    top: 5vw;
+    left: 38vw;
+    transform: rotate(2deg);
+    display: none;
+}
+
+#Play_Again {
+    position: absolute;
+    width: 9vw;
+    top: 22vw;
+    left: 45vw;
+    z-index: 10;
+}
+
+/******** LEVEL COMPLETE ********/
+#levelcomplete {
+    position: absolute;
+    width: 65vw;
+    top: 5vw;
+    left: 34vw;
+    transform: rotate(2deg);
+    display: none;
+
+}
+
+#Play_More {
+    position: absolute;
+    width: 9vw;
+    top: 21vw;
+    left: 48vw;
+    display: none;
+
+}
