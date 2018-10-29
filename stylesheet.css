@@ -1,3 +1,5 @@
+/********** SPIL **********/
+
 #game_background {
     background-image: url(grafik/Baggrund.svg);
     background-repeat: no-repeat;
@@ -538,4 +540,60 @@
     top: 48vw;
     left: 91.50vw;
     z-index: 5;
+}
+
+/********** TITELSKÆRM **********/
+#start {
+    background-image: url(grafik/Titelsk%C3%A6rm.svg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+
+    width: 100vw;
+    height: 56.25vw;
+
+    position: relative;
+    top: 0vw;
+    left: 0vw;
+}
+
+#Startknap {
+    background-image: url(grafik/Lort_Start.svg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+
+    width: 16vw;
+    height: 16vw;
+
+    position: absolute;
+    top: 15vw;
+    left: 37.50vw;
+    z-index: 1;
+}
+
+#Start_Settings {
+    background-image: url(grafik/Lort_Settings.svg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+
+    width: 5.5vw;
+    height: 6vw;
+
+    position: absolute;
+    top: 51.1vw;
+    left: 88.2vw;
+    z-index: 2;
+}
+
+#Start_Exit {
+    background-image: url(grafik/Lort_Exit.svg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+
+    width: 5.5vw;
+    height: 6vw;
+
+    position: absolute;
+    top: 51.1vw;
+    left: 93.4vw;
+    z-index: 2;
 }
