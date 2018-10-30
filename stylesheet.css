@@ -186,9 +186,31 @@ body {
     animation-timing-function: linear;
 }
 
+#Sky_5 {
+    background-image: url(grafik/Sky.svg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+
+    width: 20vw;
+    height: 10vw;
+
+    position: absolute;
+    top: 15vw;
+    left: 60vw;
+    z-index: 2;
+}
+
+.sky_5_side_to_side {
+    animation-name: side_to_side;
+    animation-duration: 50s;
+    animation-iteration-count: infinite;
+    animation-fill-mode: forwards;
+    animation-timing-function: linear;
+}
+
 @keyframes side_to_side {
     from {
-        transform: translateX(-100vw);
+        transform: translateX(-10vw);
     }
 
     to {
