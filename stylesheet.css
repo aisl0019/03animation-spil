@@ -67,7 +67,7 @@ body {
     position: absolute;
     top: 2.3vw;
     left: 84vw;
-    z-index: 2;
+    /** z-index: 1; **/
 }
 
 #Lort_Plus_2 {
@@ -81,7 +81,7 @@ body {
     position: absolute;
     top: 2.3vw;
     left: 89vw;
-    z-index: 2;
+    /** z-index: 2; **/
 }
 
 #Lort_Plus_3 {
@@ -95,7 +95,7 @@ body {
     position: absolute;
     top: 2.3vw;
     left: 94vw;
-    z-index: 2;
+    /** z-index: 2; **/
 }
 
 #Sky_1 {
@@ -109,7 +109,7 @@ body {
     position: absolute;
     top: 5vw;
     left: 0vw;
-    z-index: 2;
+    /** z-index: 2; **/
 }
 
 .sky_1_side_to_side {
@@ -131,7 +131,7 @@ body {
     position: absolute;
     top: 15vw;
     left: 60vw;
-    z-index: 2;
+    /** z-index: 2; **/
 }
 
 .sky_2_side_to_side {
@@ -153,7 +153,7 @@ body {
     position: absolute;
     top: 15vw;
     left: 60vw;
-    z-index: 2;
+    /** z-index: 2; **/
 }
 
 .sky_3_side_to_side {
@@ -175,7 +175,7 @@ body {
     position: absolute;
     top: 15vw;
     left: 60vw;
-    z-index: 2;
+    /** z-index: 2; **/
 }
 
 .sky_4_side_to_side {
@@ -197,7 +197,7 @@ body {
     position: absolute;
     top: 15vw;
     left: 60vw;
-    z-index: 2;
+    /** z-index: 2; **/
 }
 
 .sky_5_side_to_side {
@@ -229,7 +229,7 @@ body {
     position: absolute;
     top: 45vw;
     left: 1vw;
-    z-index: 2;
+    /** z-index: 2; **/
 }
 
 #Lort_Interaktiv_Corgi_1 {
@@ -243,7 +243,7 @@ body {
     position: absolute;
     top: 45vw;
     left: 1vw;
-    z-index: 3;
+    /** z-index: 3; **/
 }
 
 #Corgi_2 {
@@ -257,7 +257,7 @@ body {
     position: absolute;
     top: 47vw;
     left: 80vw;
-    z-index: 2;
+    /** z-index: 1; **/
 }
 
 #Lort_Interaktiv_Corgi_2 {
@@ -271,7 +271,7 @@ body {
     position: absolute;
     top: 47vw;
     left: 80vw;
-    z-index: 3;
+    /** z-index: 3; **/
 }
 
 #Corgi_3 {
@@ -285,7 +285,7 @@ body {
     position: absolute;
     top: 45vw;
     left: 63vw;
-    z-index: 2;
+    /** z-index: 2; **/
 }
 
 #Lort_Interaktiv_Corgi_3 {
@@ -299,7 +299,7 @@ body {
     position: absolute;
     top: 45vw;
     left: 63vw;
-    z-index: 3;
+    /** z-index: 3; **/
 }
 
 #Lab_1 {
@@ -313,7 +313,7 @@ body {
     position: absolute;
     top: 42vw;
     left: 89vw;
-    z-index: 2;
+    /** z-index: 2; **/
 }
 
 #Lort_Interaktiv_Lab_1 {
@@ -327,7 +327,7 @@ body {
     position: absolute;
     top: 44vw;
     left: 89vw;
-    z-index: 3;
+    /** z-index: 3; **/
 }
 
 #Lab_2 {
@@ -341,7 +341,7 @@ body {
     position: absolute;
     top: 43vw;
     left: 39vw;
-    z-index: 2;
+    /** z-index: 2; **/
 }
 
 #Lort_Interaktiv_Lab_2 {
@@ -355,7 +355,7 @@ body {
     position: absolute;
     top: 45vw;
     left: 39vw;
-    z-index: 3;
+    /** z-index: 3; **/
 }
 
 #Lab_3 {
@@ -369,7 +369,7 @@ body {
     position: absolute;
     top: 45vw;
     left: 19vw;
-    z-index: 2;
+    /** z-index: 2; **/
 }
 
 #Lort_Interaktiv_Lab_3 {
@@ -383,7 +383,7 @@ body {
     position: absolute;
     top: 47vw;
     left: 19vw;
-    z-index: 3;
+    /** z-index: 3; **/
 }
 
 #Mops_1 {
@@ -397,7 +397,7 @@ body {
     position: absolute;
     top: 45vw;
     left: 10vw;
-    z-index: 2;
+    /** z-index: 2; **/
 }
 
 #Lort_Interaktiv_Mops_1 {
@@ -411,7 +411,7 @@ body {
     position: absolute;
     top: 45vw;
     left: 10vw;
-    z-index: 3;
+    /** z-index: 3; **/
 }
 
 #Mops_2 {
@@ -425,7 +425,7 @@ body {
     position: absolute;
     top: 50vw;
     left: 30vw;
-    z-index: 4;
+    /** z-index: 4; **/
 }
 
 #Lort_Interaktiv_Mops_2 {
@@ -439,7 +439,7 @@ body {
     position: absolute;
     top: 50vw;
     left: 30vw;
-    z-index: 5;
+    /** z-index: 5; **/
 }
 
 #Mops_3 {
@@ -453,7 +453,7 @@ body {
     position: absolute;
     top: 48vw;
     left: 50vw;
-    z-index: 2;
+    /** z-index: 2; **/
 }
 
 #Lort_Interaktiv_Mops_3 {
@@ -467,7 +467,7 @@ body {
     position: absolute;
     top: 48vw;
     left: 50vw;
-    z-index: 3;
+    /** z-index: 3; **/
 }
 
 #Puddel_1 {
@@ -481,7 +481,7 @@ body {
     position: absolute;
     top: 44vw;
     left: 69vw;
-    z-index: 2;
+    /** z-index: 2; **/
 }
 
 #Lort_Interaktiv_Puddel_1 {
@@ -495,7 +495,7 @@ body {
     position: absolute;
     top: 46vw;
     left: 69vw;
-    z-index: 3;
+    /** z-index: 3; **/
 }
 
 #Puddel_2 {
@@ -509,7 +509,7 @@ body {
     position: absolute;
     top: 44vw;
     left: 43vw;
-    z-index: 4;
+    /** z-index: 4; **/
 }
 
 #Lort_Interaktiv_Puddel_2 {
@@ -523,7 +523,7 @@ body {
     position: absolute;
     top: 46vw;
     left: 43vw;
-    z-index: 5;
+    /** z-index: 5; **/
 }
 
 #Puddel_3 {
@@ -537,7 +537,7 @@ body {
     position: absolute;
     top: 44vw;
     left: 12vw;
-    z-index: 4;
+    /** z-index: 4; **/
 }
 
 #Lort_Interaktiv_Puddel_3 {
@@ -551,7 +551,7 @@ body {
     position: absolute;
     top: 46vw;
     left: 12vw;
-    z-index: 5;
+    /** z-index: 5; **/
 }
 
 #Shiba_Inu_1 {
@@ -565,7 +565,7 @@ body {
     position: absolute;
     top: 40vw;
     left: 28vw;
-    z-index: 2;
+    /** z-index: 2; **/
 }
 
 #Lort_Interaktiv_Shiba_Inu_1 {
@@ -579,7 +579,7 @@ body {
     position: absolute;
     top: 43vw;
     left: 28.50vw;
-    z-index: 3;
+    /** z-index: 3; **/
 }
 
 #Shiba_Inu_2 {
@@ -593,7 +593,7 @@ body {
     position: absolute;
     top: 45vw;
     left: 55vw;
-    z-index: 4;
+    /** z-index: 4; **/
 }
 
 #Lort_Interaktiv_Shiba_Inu_2 {
@@ -607,7 +607,7 @@ body {
     position: absolute;
     top: 48vw;
     left: 55.50vw;
-    z-index: 5;
+    /** z-index: 5; **/
 }
 
 #Shiba_Inu_3 {
@@ -621,7 +621,7 @@ body {
     position: absolute;
     top: 45vw;
     left: 91vw;
-    z-index: 4;
+    /** z-index: 4; **/
 }
 
 #Lort_Interaktiv_Shiba_Inu_3 {
@@ -635,37 +635,33 @@ body {
     position: absolute;
     top: 48vw;
     left: 91.50vw;
-    z-index: 5;
+    /** z-index: 5; **/
 }
 
 /********** TITELSKÆRM **********/
-#start {
-    background-image: url(grafik/Titelsk%C3%A6rm.svg);
-    background-repeat: no-repeat;
-    background-size: 100%;
 
+
+#start {
+    background-image: url(grafik/startskaerm.svg);
+    position: absolute;
     width: 100vw;
     height: 56.25vw;
-
-    position: relative;
-    top: 0vw;
-    left: 0vw;
-
-    display: none;
+    background-size: 100%;
+    top: 0;
+    left: 0;
 }
 
-#Startknap {
+#play {
     background-image: url(grafik/Lort_Start.svg);
-    background-repeat: no-repeat;
-    background-size: 100%;
-
-    width: 16vw;
-    height: 16vw;
-
     position: absolute;
-    top: 15vw;
-    left: 37.50vw;
-    z-index: 1;
+    cursor: pointer;
+
+    width: 20vw;
+    height: 16vw;
+    background-size: 100%;
+    top: 14vw;
+    left: 35.7vw;
+    /** z-index: 1; **/
 }
 
 #Start_Settings {
@@ -679,7 +675,7 @@ body {
     position: absolute;
     top: 51.1vw;
     left: 88.2vw;
-    z-index: 2;
+    /** z-index: 2; **/
 }
 
 #Start_Exit {
@@ -693,7 +689,7 @@ body {
     position: absolute;
     top: 51.1vw;
     left: 93.4vw;
-    z-index: 2;
+    /** z-index: 2; **/
 }
 
 /********** SETTINGS **********/
@@ -723,7 +719,7 @@ body {
     position: absolute;
     top: 27vw;
     left: 27.2vw;
-    z-index: 1;
+    /** z-index: 1; **/
 }
 
 #Settings_Sound {
@@ -737,7 +733,7 @@ body {
     position: absolute;
     top: 27vw;
     left: 41.6vw;
-    z-index: 1;
+    /** z-index: 1; **/
 }
 
 #Settings_Exit {
@@ -751,7 +747,7 @@ body {
     position: absolute;
     top: 26.4vw;
     left: 56.1vw;
-    z-index: 1;
+    /** z-index: 1; **/
 }
 
 /********** GAME OVER **********/
@@ -781,7 +777,7 @@ body {
     position: absolute;
     top: 22vw;
     left: 35.6vw;
-    z-index: 1;
+    /** z-index: 1; **/
 }
 
 /********** LEVEL COMPLETE **********/
@@ -811,5 +807,5 @@ body {
     position: absolute;
     top: 28vw;
     left: 35.6vw;
-    z-index: 1;
+    /** z-index: 1; **/
 }
