@@ -12,14 +12,14 @@
 
     <div id="screen">
         <div id="menu_background" class="hide"></div>
-        <div id="game">
-            <div id="game_background" class="hide"></div>
+        <div id="game" class="show">
+            <div id="game_background" class="show"></div>
 
             <div id="game_elements" class="hide">
 
                 <!-- Corgi -->
-                <div id="Corgi_1" class="hide"></div>
-                <div id="Lort_Interaktiv_Corgi_1" class="hide"></div>
+                <div id="Corgi_1" class="show"></div>
+                <div id="Lort_Interaktiv_Corgi_1" class="show"></div>
 
                 <div id="Corgi_2" class="hide"></div>
                 <div id="Lort_Interaktiv_Corgi_2" class="hide"></div>
@@ -78,23 +78,32 @@
             <div id="game_ui">
 
                 <!-- Point -->
-                <div id="Point_Square" class="hide"></div>
+                <div id="point">
+                    <span class="klap"></span>
+                    <span class="antal">0</span>
+                </div>
 
                 <!-- Time -->
-                <div id="Time_Square" class="hide"></div>
+                <div id="time"></div>
 
                 <!-- Life -->
-                <div id="Life_Square" class="hide"></div>
-                <div id="Lort_Plus_1" class="hide"></div>
-                <div id="Lort_Plus_2" class="hide"></div>
-                <div id="Lort_Plus_3" class="hide"> </div>
+                <div id="energy">
+                    <div id="Lort_Plus_1" class="lort_plus"></div>
+                    <div id="Lort_Plus_2" class="lort_plus"></div>
+                    <div id="Lort_Plus_3" class="lort_plus"></div>
+
+                    <div id="Lort_Minus_1" class="lort_minus"></div>
+                    <div id="Lort_Minus_2" class="lort_minus"></div>
+                    <div id="Lort_Minus_3" class="lort_minus"></div>
+                </div>
 
             </div>
+
         </div>
 
         <!-- TITELSKÆRM -->
         <div id="start" class="hide">
-            <div id="play" class="pulse"></div>
+            <div id="play"></div>
         </div>
 
         <!-- SETTINGS MENU -->

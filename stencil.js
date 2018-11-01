@@ -3,7 +3,7 @@ window.addEventListener("load", start);
 
 // alert("Message that appears upon page load");
 
-// Note to self in inspector/console
+// note to self in inspector=>console
 console.log("Hello");
 
 // functions have been divided into folders:

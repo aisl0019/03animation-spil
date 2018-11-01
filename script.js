@@ -1,35 +1,57 @@
+// start game automatically when page is loaded
 window.addEventListener("load", sidenVises);
 
-alert("Connected");
+// alert("Virker den")
 
 function sidenVises() {
-    console.log("siden vises");
+    console.log("sidenVises");
 
+    // nulstil alting
+
+    // -> showStart
     showStart();
 }
 
-function showStart() {
-    console.log("show start");
 
-    document.querySelector("#start").classList.remove("hide");
+function showStart() {
+    console.log("showStart");
+
+    // vis startskærm
+    document.querySelector("#start").classList.add("show");
+
+    // start animation på startknap
     document.querySelector("#play").classList.add("pulse");
+
+    // clicks/events
     document.querySelector("#play").addEventListener("click", hideStart);
 
+    // removes
 }
+
 
 function hideStart() {
-    console.log("hide start");
+    console.log("hideStart");
 
-    document.querySelector("#play").removeEventListener("click", hideStart);
-    document.querySelector("#play").classList.remove("pulse");
+    // stop animation på startknap
+    document.querySelector("#play").classList.add("hide");
+
+    // fade startskærm ud
     document.querySelector("#start").classList.add("fade_out");
+
+    // clicks/events
     document.querySelector("#start").addEventListener("animationend", startGame);
+
+    // removes
 }
 
-function startGame() {
-    console.log("start game");
 
-    document.querySelector("#start").removeEventListener("animationend", startGame);
-    document.querySelector("#start").classList.remove("fade_out");
+function startGame() {
+    console.log("startGame");
+
+    // skjul startskærm
     document.querySelector("#start").classList.add("hide");
+
+
+    // vis spilskærm
+    document.querySelector("#game").classList.add("show");
 }
